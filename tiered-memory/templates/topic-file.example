@@ -1,0 +1,19 @@
+# Topic Name
+
+## Subsection
+- fact 1
+- fact 2
+- fact with detail and context
+
+## Another Subsection
+- specific detail that would never fit in MEMORY.md
+- full project reference with stack and metrics
+- anything that exceeds ~150 characters per line
+
+## Standing Facts
+- information that changes rarely (months, not days)
+- update this file when facts change
+- delete old entries when superseded
+
+---
+last-verified: YYYY-MM-DD
